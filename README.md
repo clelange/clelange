@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an experimental particle physicist at [CERN](https://home.cern) working on the [CMS experiment](https://cms.cern). I'm looking for heavy particles that might be hiding in the collisions of the Large Hadron Collider ([LHC](https://home.cern/science/accelerators/large-hadron-collider)). I have a great interest in automating workflows.
+
+- 😄 Pronouns: he/his
+- 📫 How to reach me: [Homepage](https://clange.web.cern.ch/clange)
+
 <!--
 **clelange/clelange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
