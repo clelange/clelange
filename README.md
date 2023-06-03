@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm an experimental particle physicist at [CERN](https://home.cern) working on the [CMS experiment](https://cms.cern). I'm looking for heavy particles that might be hiding in the collisions of the Large Hadron Collider ([LHC](https://home.cern/science/accelerators/large-hadron-collider)). I have a great interest in automating workflows.
+I'm an experimental particle physicist at [Paul Scherrer Institute PSI](https://www.psi.ch) working on the [CMS experiment](https://cms.cern) at [CERN](https://home.cern). I'm looking for heavy particles that might be hiding in the collisions of the Large Hadron Collider ([LHC](https://home.cern/science/accelerators/large-hadron-collider)). I have a great interest in automating workflows.
 
 - 😄 Pronouns: he/his
-- 📫 How to reach me: [Homepage](https://clange.web.cern.ch/clange) or follow me on [Twitter](https://twitter.com/clelange)
+- 📫 How to reach me: [Homepage](https://clange.web.cern.ch/clange) or follow me on [Twitter](https://twitter.com/clelange) or [Mastodon](https://hachyderm.io/@clelange)
 - 🤖 Follow my [CMSPapers bot](https://twitter.com/CMSPapers) for the latest results by the CMS experiment
 
 <div align="middle">
